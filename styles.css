@@ -48,6 +48,21 @@
   white-space: normal;
   margin-right: 1rem;
 }
+#slide1 {
+  background-color: red;
+}
+#slide2 {
+  background-color: greenyellow;
+}
+#slide3 {
+  background-color: olive;
+}
+#slide4 {
+  background-color: aqua;
+}
+#slide5 {
+  background-color: firebrick;
+}
 /* .active:hover {
   text-align: center;
   background-color: green;
@@ -66,4 +81,8 @@
   height: 1.5rem;
   width: 20%;
   border-radius: 1rem;
+}
+
+.item {
+  display: none;
 }
